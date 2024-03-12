@@ -1,0 +1,477 @@
+{
+    "CLOSE_FRONT": {
+        "ipaCode": "0040", 
+        "ipaClass": ["vowel", "close", "front", "unrounded"], 
+        "unicode": "U+0069"
+    },
+    "CLOSE_FRONT_ROUNDED": {
+        "ipaCode": "0041", 
+        "ipaClass": ["vowel", "close", "front", "rounded"], 
+        "unicode": "U+0079"
+    }, 
+    "CLOSE_CENTRAL": {
+        "ipaCode": "0042", 
+        "ipaClass": ["vowel", "close", "central", "unrounded"], 
+        "unicode": "U+0268"
+    },
+    "CLOSE_CENTRAL_ROUNDED": {
+        "ipaCode": "0043", 
+        "ipaClass": ["vowel", "close", "central", "rounded"], 
+        "unicode": "U+0289"
+    }, 
+    "CLOSE_BACK": {
+        "ipaCode": "0044", 
+        "ipaClass": ["vowel", "close", "back", "unrounded"], 
+        "unicode": "U+026F"
+    },
+    "CLOSE_BACK_ROUNDED": {
+        "ipaCode": "0045", 
+        "ipaClass": ["vowel", "close", "back", "rounded"], 
+        "unicode": "U+0075"
+    }, 
+    "NEAR-CLOSE_FRONT": {
+        "ipaCode": "0046", 
+        "ipaClass": ["vowel", "near-close", "front", "unrounded"], 
+        "unicode": "U+026A"
+    },
+    "NEAR-CLOSE_FRONT_ROUNDED": {
+        "ipaCode": "0047", 
+        "ipaClass": ["vowel", "near-close", "front", "rounded"], 
+        "unicode": "U+028F"
+    }, 
+    "NEAR-CLOSE_BACK_ROUNDED": {
+        "ipaCode": "0050", 
+        "ipaClass": ["vowel", "near-close", "back", "rounded"], 
+        "unicode": "U+028A"
+    },
+    "CLOSE-MID_FRONT": {
+        "ipaCode": "0051", 
+        "ipaClass": ["vowel", "close-mid", "front", "unrounded"], 
+        "unicode": "U+0065"
+    },
+    "CLOSE-MID_FRONT_ROUNDED": {
+        "ipaCode": "0052", 
+        "ipaClass": ["vowel", "close-mid", "front", "rounded"], 
+        "unicode": "U+00F8"
+    }, 
+    "CLOSE-MID_CENTRAL": {
+        "ipaCode": "0053", 
+        "ipaClass": ["vowel", "close-mid", "central", "unrounded"], 
+        "unicode": "U+0258"
+    },
+    "CLOSE-MID_CENTRAL_ROUNDED": {
+        "ipaCode": "0054", 
+        "ipaClass": ["vowel", "close-mid", "central", "rounded"], 
+        "unicode": "U+0275"
+    }, 
+    "CLOSE-MID_BACK": {
+        "ipaCode": "0055", 
+        "ipaClass": ["vowel", "close-mid", "back", "unrounded"], 
+        "unicode": "U+0264"
+    }, 
+    "CLOSE-MID_BACK_ROUNDED": {
+        "ipaCode": "0056", 
+        "ipaClass": ["vowel", "close-mid", "back", "rounded"], 
+        "unicode": "U+006F"
+    }, 
+    "MID_CENTRAL": {
+        "ipaCode": "0057", 
+        "ipaClass": ["vowel", "mid", "central", "unrounded"], 
+        "unicode": "U+0259"
+    }, 
+    "OPEN-MID_FRONT": {
+        "ipaCode": "0060", 
+        "ipaClass": ["vowel", "open-mid", "front", "unrounded"], 
+        "unicode": "U+025B"
+    }, 
+    "OPEN-MID_FRONT_ROUNDED": {
+        "ipaCode": "0061", 
+        "ipaClass": ["vowel", "open-mid", "front", "rounded"], 
+        "unicode": "U+0153"
+    }, 
+    "OPEN-MID_CENTRAL": {
+        "ipaCode": "0062", 
+        "ipaClass": ["vowel", "open-mid", "central", "unrounded"], 
+        "unicode": "U+025C"
+    }, 
+    "OPEN-MID_CENTRAL_ROUNDED": {
+        "ipaCode": "0063", 
+        "ipaClass": ["vowel", "open-mid", "central", "rounded"], 
+        "unicode": "U+025E"
+    }, 
+    "OPEN-MID_BACK": {
+        "ipaCode": "0064", 
+        "ipaClass": ["vowel", "open-mid", "back", "unrounded"], 
+        "unicode": "U+028C"
+    }, 
+    "OPEN-MID_BACK_ROUNDED": {
+        "ipaCode": "0065", 
+        "ipaClass": ["vowel", "open-mid", "back", "rounded"], 
+        "unicode": "U+0254"
+    }, 
+    "NEAR-OPEN_FRONT": {
+        "ipaCode": "0066", 
+        "ipaClass": ["vowel", "near-open", "front", "unrounded"], 
+        "unicode": "U+00E6"
+    }, 
+    "NEAR-OPEN_CENTRAL": {
+        "ipaCode": "0067", 
+        "ipaClass": ["vowel", "near-open", "central", "unrounded"], 
+        "unicode": "U+0250"
+    }, 
+    "OPEN_FRONT": {
+        "ipaCode": "0070", 
+        "ipaClass": ["vowel", "open", "front", "unrounded"], 
+        "unicode": "U+0061"
+    }, 
+    "OPEN_FRONT_ROUNDED": {
+        "ipaCode": "0071", 
+        "ipaClass": ["vowel", "open", "front", "rounded"], 
+        "unicode": "U+0276"
+    }, 
+    "OPEN_BACK": {
+        "ipaCode": "0072", 
+        "ipaClass": ["vowel", "open", "back", "unrounded"], 
+        "unicode": "U+0251"
+    }, 
+    "OPEN_BACK_ROUNDED": {
+        "ipaCode": "0073", 
+        "ipaClass": ["vowel", "open", "back", "rounded"], 
+        "unicode": "U+0252"
+    }, 
+    "PLOSIVE_BILABIAL": {
+        "ipaCode": "0100",
+        "ipaClass": ["consonant", "pulmonic", "plosive", "bilabial", "voiceless"], 
+        "unicode": "U+0070"
+    }, 
+    "PLOSIVE_BILABIAL_VOICED": {
+        "ipaCode": "0101",
+        "ipaClass": ["consonant", "pulmonic", "plosive", "bilabial", "voiced"], 
+        "unicode": "U+0062"
+    }, 
+    "PLOSIVE_ALVEOLAR": {
+        "ipaCode": "0102",
+        "ipaClass": ["consonant", "pulmonic", "plosive", "alveolar", "voiceless"], 
+        "unicode": "U+0074"
+    }, 
+    "PLOSIVE_ALVEOLAR_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "plosive", "alveolar", "voiced"], 
+        "unicode": "U+0064"
+    }, 
+    "PLOSIVE_RETROFLEX": {
+        "ipaCode": "0102",
+        "ipaClass": ["consonant", "pulmonic", "plosive", "retroflex", "voiceless"], 
+        "unicode": "U+0288"
+    }, 
+    "PLOSIVE_RETROFLEX_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "plosive", "retroflex", "voiced"], 
+        "unicode": "U+0256"
+    }, 
+    "PLOSIVE_PALATAL": {
+        "ipaCode": "0102",
+        "ipaClass": ["consonant", "pulmonic", "plosive", "palatal", "voiceless"], 
+        "unicode": "U+0063"
+    }, 
+    "PLOSIVE_PALATAL_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "plosive", "palatal", "voiced"], 
+        "unicode": "U+025F"
+    }, 
+    "PLOSIVE_VELAR": {
+        "ipaCode": "0102",
+        "ipaClass": ["consonant", "pulmonic", "plosive", "velar", "voiceless"], 
+        "unicode": "U+006B"
+    }, 
+    "PLOSIVE_VELAR_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "plosive", "velar", "voiced"], 
+        "unicode": "U+0261"
+    }, 
+    "PLOSIVE_UVULAR": {
+        "ipaCode": "0102",
+        "ipaClass": ["consonant", "pulmonic", "plosive", "uvular", "voiceless"], 
+        "unicode": "U+0071"
+    }, 
+    "PLOSIVE_UVULAR_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "plosive", "uvular", "voiced"], 
+        "unicode": "U+0262"
+    }, 
+    "PLOSIVE_GLOTTAL": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "plosive", "glottal", "voiceless"], 
+        "unicode": "U+0294"
+    }, 
+    "NASAL_BILABIAL_VOICED": {
+        "ipaCode": "0102",
+        "ipaClass": ["consonant", "pulmonic", "nasal", "bilabial", "voiced"], 
+        "unicode": "U+006D"
+    }, 
+    "NASAL_LABIODENTAL_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "nasal", "labiodental", "voiced"], 
+        "unicode": "U+0271"
+    }, 
+    "NASAL_ALVEOLAR_VOICED": {
+        "ipaCode": "0102",
+        "ipaClass": ["consonant", "pulmonic", "nasal", "alveolar", "voiced"], 
+        "unicode": "U+006E"
+    }, 
+    "NASAL_RETROFLEX_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "nasal", "retroflex", "voiced"], 
+        "unicode": "U+0273"
+    }, 
+    "NASAL_VELAR_VOICED": {
+        "ipaCode": "0102",
+        "ipaClass": ["consonant", "pulmonic", "nasal", "velar", "voiced"], 
+        "unicode": "U+014B"
+    }, 
+    "NASAL_UVULAR_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "nasal", "uvular", "voiced"], 
+        "unicode": "U+0274"
+    }, 
+    "TRILL_BILABIAL_VOICED": {
+        "ipaCode": "0102",
+        "ipaClass": ["consonant", "pulmonic", "trill", "bilabial", "voiced"], 
+        "unicode": "U+0299"
+    }, 
+    "TRILL_ALVEOLAR_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "trill", "alveolar", "voiced"], 
+        "unicode": "U+0072"
+    }, 
+    "TRILL_UVULAR_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "trill", "uvular", "voiced"], 
+        "unicode": "U+0280"
+    }, 
+    "TAP-OR-FLAP_LABIODENTAL_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "tap-or-flap", "labiodental", "voiced"], 
+        "unicode": "U+2C71"
+    }, 
+    "TAP-OR-FLAP_ALVEOLAR_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "tap-or-flap", "alveolar", "voiced"], 
+        "unicode": "U+027E"
+    }, 
+    "TAP-OR-FLAP_RETROFLEX_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "tap-or-flap", "retroflex", "voiced"], 
+        "unicode": "U+027D"
+    }, 
+    "FRICATIVE_BILABIAL": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "bilabial", "voiceless"], 
+        "unicode": "U+0278"
+    }, 
+    "FRICATIVE_BILABIAL_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "bilabial", "voiced"], 
+        "unicode": "U+03B2"
+    }, 
+    "FRICATIVE_LABIODENTAL": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "labiodental", "voiceless"], 
+        "unicode": "U+0066"
+    }, 
+    "FRICATIVE_LABIODENTAL_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "labiodental", "voiced"], 
+        "unicode": "U+0076"
+    }, 
+    "FRICATIVE_DENTAL": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "dental", "voiceless"], 
+        "unicode": "U+03B8"
+    }, 
+    "FRICATIVE_DENTAL_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "dental", "voiced"], 
+        "unicode": "U+00F0"
+    }, 
+    "FRICATIVE_ALVEOLAR": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "alveolar", "voiceless"], 
+        "unicode": "U+0073"
+    }, 
+    "FRICATIVE_ALVEOLAR_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "alveolar", "voiced"], 
+        "unicode": "U+007A"
+    }, 
+    "FRICATIVE_POSTALVEOLAR": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "postalveolar", "voiceless"], 
+        "unicode": "U+0283"
+    }, 
+    "FRICATIVE_POSTALVEOLAR_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "postalveolar", "voiced"], 
+        "unicode": "U+0292"
+    }, 
+    "FRICATIVE_RETROFLEX": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "retroflex", "voiceless"], 
+        "unicode": "U+0282"
+    }, 
+    "FRICATIVE_RETROFLEX_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "retroflex", "voiced"], 
+        "unicode": "U+0290"
+    }, 
+    "FRICATIVE_PALATAL": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "palatal", "voiceless"], 
+        "unicode": "U+00E7"
+    }, 
+    "FRICATIVE_PALATAL_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "palatal", "voiced"], 
+        "unicode": "U+029D"
+    }, 
+    "FRICATIVE_VELAR": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "velar", "voiceless"], 
+        "unicode": "U+0078"
+    }, 
+    "FRICATIVE_VELAR_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "velar", "voiced"], 
+        "unicode": "U+0263"
+    }, 
+    "FRICATIVE_UVULAR": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "uvular", "voiceless"], 
+        "unicode": "U+03C7"
+    }, 
+    "FRICATIVE_UVULAR_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "uvular", "voiced"], 
+        "unicode": "U+0281"
+    }, 
+    "FRICATIVE_PHARYNGEAL": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "pharyngeal", "voiceless"], 
+        "unicode": "U+0127"
+    }, 
+    "FRICATIVE_PHARYNGEAL_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "pharyngeal", "voiced"], 
+        "unicode": "U+0295"
+    }, 
+    "FRICATIVE_GLOTTAL": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "glottal", "voiceless"], 
+        "unicode": "U+0068"
+    }, 
+    "FRICATIVE_GLOTTAL_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "glottal", "voiced"], 
+        "unicode": "U+0266"
+    }, 
+    "LATERAL-FRICATIVE_ALVEOLAR": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "lateral-fricative", "alveolar", "voiceless"], 
+        "unicode": "U+026C"
+    }, 
+    "LATERAL-FRICATIVE_ALVEOLAR_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "lateral-fricative", "alveolar", "voiced"], 
+        "unicode": "U+026E"
+    }, 
+    "APPROXIMANT_LABIODENTAL_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "approximant", "labiodental", "voiceless"], 
+        "unicode": "U+028B"
+    }, 
+    "APPROXIMANT_ALVEOLAR_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "approximant", "alveolar", "voiced"], 
+        "unicode": "U+0279"
+    }, 
+    "APPROXIMANT_RETROFLEX_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "approximant", "retroflex", "voiceless"], 
+        "unicode": "U+027B"
+    }, 
+    "APPROXIMANT_PALATAL_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "approximant", "palatal", "voiced"], 
+        "unicode": "U+006A"
+    }, 
+    "APPROXIMANT_VELAR_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "approximant", "velar", "voiceless"], 
+        "unicode": "U+0270"
+    }, 
+    "LATERAL-APPROXIMANT_ALVEOLAR_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "lateral-approximant", "alveolar", "voiced"], 
+        "unicode": "U+006C"
+    }, 
+    "LATERAL-APPROXIMANT_RETROFLEX_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "lateral-approximant", "retroflex", "voiced"], 
+        "unicode": "U+026D"
+    }, 
+    "LATERAL-APPROXIMANT_PALATAL_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "lateral-approximant", "palatal", "voiced"], 
+        "unicode": "U+028E"
+    }, 
+    "LATERAL-APPROXIMANT_VELAR_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "lateral-approximant", "retroflex", "voiced"], 
+        "unicode": "U+029F"
+    }, 
+    "FRICATIVE_LABIAL-VELAR": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "velar", "voiceless"], 
+        "unicode": "U+028D"
+    }, 
+    "APPROXIMANT_LABIAL-VELAR_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "approximant", "labial-velar", "voiced"], 
+        "unicode": "U+0077"
+    }, 
+    "APPROXIMANT_LABIAL-PALATAL_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "approximant", "labial-palatal", "voiced"], 
+        "unicode": "U+0265"
+    }, 
+    "FRICATIVE_EPIGLOTTAL": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "epiglottal", "voiceless"], 
+        "unicode": "U+029C"
+    }, 
+    "FRICATIVE_EPIGLOTTAL_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "epiglottal", "voiced"], 
+        "unicode": "U+02A2"
+    }, 
+    "PLOSIVE_EPIGLOTTAL": {
+        "ipaCode": "0102",
+        "ipaClass": ["consonant", "plosive", "epiglottal", "voiceless"], 
+        "unicode": "U+02A1"
+    }, 
+    "FRICATIVE_ALVEOLO-PALATAL": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "alveolo-palatal", "voiceless"], 
+        "unicode": "U+0255"
+    }, 
+    "FRICATIVE_ALVEOLO-PALATAL_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "fricative", "alveolo-palatal", "voiced"], 
+        "unicode": "U+0291"
+    }, 
+    "LATERAL-FLAP_ALVEOLAR_VOICED": {
+        "ipaCode": "0103",
+        "ipaClass": ["consonant", "pulmonic", "lateral-flap", "alveolar", "voiced"], 
+        "unicode": "U+027A"
+    }
+}

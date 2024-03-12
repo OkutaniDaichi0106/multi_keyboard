@@ -1,0 +1,167 @@
+{
+    "RUSSIA00": {
+        "unicode": "U+", 
+        "phoneme": ["OPEN_FRONT"],
+        "imput": ["OPEN_FRONT"]
+    }, 
+    "RUSSIA01": {
+        "unicode": "U+", 
+        "phoneme": ["PLOSIVE_BILABIAL_VOICED"], 
+        "imput": ["PLOSIVE_BILABIAL"]
+    }, 
+    "RUSSIA02": {
+        "unicode": "U+", 
+        "phoneme": ["FRICATIVE_LABIODENTAL_VOICED"],
+        "imput": ["FRICATIVE_LABIODENTAL_VOICED"]
+    }, 
+    "RUSSIA03": {
+        "unicode": "U+", 
+        "phoneme": ["PLOSIVE_VELAR_VOICED"],
+        "imput": ["PLOSIVE_VELAR_VOICED"]
+    }, 
+    "RUSSIA04": {
+        "unicode": "U+", 
+        "phoneme": ["PLOSIVE_ALVEOLAR_VOICED"],
+        "imput": ["PLOSIVE_ALVEOLAR_VOICED"]
+    }, 
+    "RUSSIA05": {
+        "unicode": "U+", 
+        "phoneme": ["APPROXIMANT_PALATAL_VOICED", "CLOSE-MID_FRONT"],
+        "imput": ["APPROXIMANT_PALATAL_VOICED", "CLOSE-MID_FRONT"]
+    }, 
+    "RUSSIA06": {
+        "unicode": "U+", 
+        "phoneme": ["APPROXIMANT_PALATAL_VOICED", "CLOSE-MID_BACK_ROUNDED"],
+        "imput": ["APPROXIMANT_PALATAL_VOICED", "CLOSE-MID_BACK_ROUNDED"]
+    }, 
+    "RUSSIA07": {
+        "unicode": "U+", 
+        "phoneme": ["FRICATIVE_POSTALVEOLAR_VOICED"],
+        "imput": ["FRICATIVE_POSTALVEOLAR_VOICED"]
+    }, 
+    "RUSSIA10": {
+        "unicode": "U+", 
+        "phoneme": ["FRICATIVE_ALVEOLAR_VOICED"],
+        "imput": ["FRICATIVE_ALVEOLAR_VOICED"]
+    }, 
+    "RUSSIA11": {
+        "unicode": "U+", 
+        "phoneme": ["CLOSE_FRONT"],
+        "imput": ["CLOSE_FRONT"]
+    }, 
+    "RUSSIA12": {
+        "unicode": "U+", 
+        "phoneme": ["APPROXIMANT_PALATAL_VOICED"],
+        "imput": ["APPROXIMANT_PALATAL_VOICED"]
+    }, 
+    "RUSSIA13": {
+        "unicode": "U+", 
+        "phoneme": ["PLOSIVE_VELAR"],
+        "imput": ["PLOSIVE_VELAR"]
+    }, 
+    "RUSSIA14": {
+        "unicode": "U+", 
+        "phoneme": ["LATERAL-APPROXIMANT_ALVEOLAR_VOICED"],
+        "imput": ["LATERAL-APPROXIMANT_ALVEOLAR_VOICED"]
+    }, 
+    "RUSSIA15": {
+        "unicode": "U+", 
+        "phoneme": ["NASAL_BILABIAL_VOICED"],
+        "imput": ["NASAL_BILABIAL_VOICED"]
+    }, 
+    "RUSSIA16": {
+        "unicode": "U+", 
+        "phoneme": ["NASAL_ALVEOLAR_VOICED"],
+        "imput": ["NASAL_ALVEOLAR_VOICED"]
+    }, 
+    "RUSSIA20": {
+        "unicode": "U+", 
+        "phoneme": ["CLOSE-MID_BACK_ROUNDED"],
+        "imput": ["CLOSE-MID_BACK_ROUNDED"]
+    }, 
+    "RUSSIA21": {
+        "unicode": "U+", 
+        "phoneme": ["PLOSIVE_BILABIAL"],
+        "imput": ["PLOSIVE_BILABIAL"]
+    }, 
+    "RUSSIA22": {
+        "unicode": "U+", 
+        "phoneme": ["TRILL_ALVEOLAR_VOICED"],
+        "imput": ["TRILL_ALVEOLAR_VOICED"]
+    }, 
+    "RUUSIA23": {
+        "unicode": "U+", 
+        "phoneme": ["PLOSIVE_ALVEOLAR"], 
+        "imput": ["PLOSIVE_ALVEOLAR"]
+    }, 
+    "RUSSIA24": {
+        "unicode": "U+", 
+        "phoneme": ["FRICATIVE_ALVEOLAR"],
+        "imput": ["FRICATIVE_ALVEOLAR"]
+    }, 
+    "RUSSIA25": {
+        "unicode": "U+", 
+        "phoneme": ["CLOSE_BACK_ROUNDED"],
+        "imput": ["CLOSE_BACK_ROUNDED"]
+    }, 
+    "RUSSIA26": {
+        "unicode": "U+", 
+        "phoneme": ["FRICATIVE_LABIODENTAL"],
+        "imput": ["FRICATIVE_LABIODENTAL"]
+    }, 
+    "RUSSIA27": {
+        "unicode": "U+", 
+        "phoneme": ["FRICATIVE_VELAR"],
+        "imput": ["FRICATIVE_VELAR"]
+    }, 
+    "RUSSIA30": {
+        "unicode": "U+", 
+        "phoneme": ["PLOSIVE_ALVEOLAR", "FRICATIVE_ALVEOLAR"],
+        "imput": ["PLOSIVE_ALVEOLAR", "FRICATIVE_ALVEOLAR"]
+    }, 
+    "RUSSIA31": {
+        "unicode": "U+", 
+        "phoneme": ["PLOSIVE_ALVEOLAR", "FRICATIVE_ALVEOLO-PALATAL"],
+        "imput": ["PLOSIVE_ALVEOLAR", "FRICATIVE_ALVEOLO-PALATAL"]
+    }, 
+    "RUSSIA32": {
+        "unicode": "U+", 
+        "phoneme": ["FRICATIVE_RETROFLEX"],
+        "imput": ["FRICATIVE_RETROFLEX"]
+    }, 
+    "RUSSIA33": {
+        "unicode": "U+", 
+        "phoneme": ["FRICATIVE_ALVEOLO-PALATAL"],
+        "imput": ["FRICATIVE_ALVEOLO-PALATAL"]
+    }, 
+    "RUSSIA34": {
+        "unicode": "U+", 
+        "phoneme": ["tvjordij znak"],
+        "imput": ["tvjordij znak"]
+    }, 
+    "RUSSIA35": {
+        "unicode": "U+", 
+        "phoneme": ["CLOSE_CENTRAL"],
+        "imput": ["CLOSE_CENTRAL"]
+    }, 
+    "RUSSIA36": {
+        "unicode": "U+", 
+        "phoneme": ["mjagkij znak"],
+        "imput": ["mjagkij znak"]
+    }, 
+    "RUSSIA37": {
+        "unicode": "U+", 
+        "phoneme": ["CLOSE-MID_FRONT"],
+        "imput": ["CLOSE-MID_FRONT"]
+    }, 
+    "RUSSIA40": {
+        "unicode": "U+", 
+        "phoneme": ["APPROXIMANT_PALATAL_VOICED", "CLOSE_BACK_ROUNDED"],
+        "imput": ["APPROXIMANT_PALATAL_VOICED", "CLOSE_BACK_ROUNDED"]
+    }, 
+    "RUSSIA41": {
+        "unicode": "U+", 
+        "phoneme": ["APPROXIMANT_PALATAL_VOICED", "OPEN_FRONT"],
+        "imput": ["APPROXIMANT_PALATAL_VOICED", "OPEN_FRONT"]
+    }
+}
