@@ -3,12 +3,25 @@
  */
 package multi_keyboard0;
 
-public class App {
-    public String getGreeting() {
-        return "Hello World!";
-    }
+import org.jline.*;
 
+public class App {
     public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+        Terminal_cmd terminal = new Terminal_cmd();
+        terminal.setLanguage();
     }
 }
+
+class KeyBoardConfig {
+    String availableLanguages;
+    KeyBoardConfig() {
+
+    }
+    String checkAvailableLanguages() {
+        return availableLanguages;
+    }
+    void parseKeyBoardConfig() {}
+    void showConfigJson() {}
+    void showConfigError() {}
+}
+
